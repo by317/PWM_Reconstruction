@@ -1,0 +1,4 @@
+NET clk LOC=P38;
+NET myout LOC=P111;
+NET pwm LOC=P10;
+NET myout2 LOC=P120;
